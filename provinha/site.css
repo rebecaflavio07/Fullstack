@@ -1,0 +1,41 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px
+}
+
+
+nav{
+    text-decoration: none;
+    justify-content: space-evenly;
+    display: flex;
+    
+
+    
+}
+nav a{
+    color: gray;
+    align-items: center ;
+    text-decoration: none;
+    font-size: 20px;
+
+}
+.container-grande{
+    color: gray;
+    font-size: 20px;
+    justify-self: end;
+    align-items: baseline;
+}
+.correio{
+    justify-self: start;
+    align-items: baseline;
+}
+h1{
+    color: red;
+    align-items: center;
+    display: flex;
+}
+.fotinha2{
+    height: 150px;
+    width: 170px;
+}
+
