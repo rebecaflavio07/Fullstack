@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+    font-size: 35px;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    color:aliceblue;
+    display: flex;
+    justify-content: center;
+    font: 20px      ;
+}
