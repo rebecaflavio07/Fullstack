@@ -1,0 +1,66 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    margin: 20px;
+}
+h1{
+    color: palevioletred;
+    font-size: 30px;
+
+}
+.margem {
+    padding: 0px 50px;
+}
+p{
+    color: whitesmoke;
+    font-size: 25px;
+}           
+nav{
+   height: 75px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 50px; 
+    width: 100%;
+    box-sizing: border-box;
+}
+
+nav ul {
+    display: flex;          
+    list-style: none;       
+    margin: 0;
+    padding: 0;
+    gap: 30px;  
+         
+}
+
+
+nav ul li a {
+    text-decoration: none;
+       
+    font-size: 16px;
+    font-family: 'Arial', sans-serif;
+}   
+a{
+color: whitesmoke   ;    
+    text-decoration: none;
+    font-size: 30px;
+}
+
+x,
+.container {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  padding: 20px;
+}
+
+.foto {
+  width: 300px;
+  border-radius: 10px;
+}
+
+.conteudo {
+    background: black;
+}   
+
